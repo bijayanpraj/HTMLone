@@ -1,0 +1,32 @@
+format document with 
+        install prettier extension
+        right click>> format document with >configure default format >>prettier
+        go to settings >>settings >>search format on save >> check format on save
+
+
+
+
+inline element only takes required space while block element uses all 
+  the space and starts from new line
+
+block element 
+   always starts from new line 
+   consume whole horizontal space
+   p, h, div......
+
+
+
+inline element 
+        starts from available space 
+        consume space as much as it required 
+        span , a
+
+button tag ia used for making button and it is a inline element
+
+
+For Form html :
+ input uses for text and number 
+ 
+
+ 
+ 

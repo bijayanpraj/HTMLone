@@ -1,0 +1,22 @@
+.cic{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(142, 197, 142);
+    border-radius: 50%;
+}
+
+.rec{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    color: white ;
+    border-radius: 22%;
+}
+
+.rect{
+     width: 100px;
+    height: 100px;
+    background-color: green;
+    color: white ;
+    border-radius: 22%;
+}

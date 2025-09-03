@@ -1,0 +1,54 @@
+.bg-red {
+    background-color: Red ;
+    color: White ;
+    font-size : 32px;
+    display: inline ;
+}
+
+.bg-green{
+    background-color: green ;
+    color: white 
+    font-size : 21px;
+    display 
+}
+
+.bg-black {
+    background-color: grey;
+    color : red
+    font-size; 23px ;
+}
+    
+
+
+.bg-yellow{
+    background-color: violet;
+    color :yellow;
+    font-size: 23px ;
+
+}
+ .btn{
+    width: 200px;
+    height: 40;
+    border: solid blue 2px;
+ }
+
+.clk{
+    border: solid black 2px;
+    display: inline-block;
+    padding : 5px 10px 5px 10px ;
+    border-radius: 5px ;
+}
+
+.rec{
+    width: 100px;
+    height: 100px;
+    background-color: Black ;
+
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color:black;
+    border-radius: 50%;
+}

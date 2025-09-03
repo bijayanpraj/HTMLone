@@ -1,0 +1,4 @@
+while using css first we have to make .css file
+when customizing our page we should start from .btn , .bg-red etc
+while customizing our page we should start with <p class = "bg-green" > We have a car at home </p>
+while making circle we always have to keep our border radius at 50%
